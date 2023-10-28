@@ -64,4 +64,4 @@ async function fakeFetch(){
     document.getElementById('fileUpload').dispatchEvent(event);
 }
 
-fakeFetch();
+//fakeFetch();
